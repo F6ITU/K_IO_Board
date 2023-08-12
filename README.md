@@ -25,16 +25,20 @@ The I/O board ensures the physical link between the transceiver and the "Munin40
 For more information, please refer to the Aries documentation (in the G8NJJ github repository)
 
 
-This board was originally developed in September 2021 by Kjell LA2NI , with UltiBoard EDA. This repository is a « bug for bug » clone of the original Protection Board using the Opensource 
-Kicad EDA. All these KiCad files are, consequently, the intellectual property of Kjell LA2NI.
+This board was originally developed in September 2021 by Kjell LA2NI , with UltiBoard EDA. A very early release has been designed
+using KiCAD EDA. After some test on a prototype setup, it has been decided to extend this board to offer both P1/output jack and
+the full set of J1 signal output. A small extention has also been inclued to add a 12V switched power supply rail for Andromeda
+ interface. 
 
 This portage (convertion/translation) is placed under the CERN Open source/ Open hardware Licence.
 
 Kicad is an Opensource EDA software maintained by the European Reseach Center CERN (Conseil européen pour la recherche nucléaire)
 
 The original work is protected by the TAPR Open Hardware licence
-
+![La carte E/S](https://github.com/F6ITU/K_IO_Board/blob/main/hecatonchire.jpg)
 
 # Work in progress
 do NOT use these files as long as this footnote hasn't been deleted
+
+Caveat emptor : this design is concidered as buggy by design: the "Tune" rail comming or going to J1 P10 is probably an error
 
