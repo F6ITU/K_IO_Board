@@ -35,7 +35,7 @@ This portage (convertion/translation) is placed under the CERN Open source/ Open
 Kicad is an Opensource EDA software maintained by the European Reseach Center CERN (Conseil européen pour la recherche nucléaire)
 
 The original work is protected by the TAPR Open Hardware licence
-![La carte E/S](https://github.com/F6ITU/K_IO_Board/blob/main/hecatonchire.jpg)
+![La carte E/S](https://github.com/F6ITU/K_IO_Board/blob/main/hecatonchire.png)
 
 # Work in progress
 do NOT use these files as long as this footnote hasn't been deleted
